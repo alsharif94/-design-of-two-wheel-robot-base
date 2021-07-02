@@ -10,9 +10,6 @@
  int ENA = 8;
  int ENB = 3;
 
- //Two push buttons to change the direction of the motors 
- int btn1 = 12 ;
- int btn2=  13 ;
 
 void setup() {
   pinMode (IN1, OUTPUT);
