@@ -24,5 +24,9 @@ Using L298N, you can control the speed and direction of two motor, but it is imp
 •	Steps and Explanation
 
 
+![image](https://user-images.githubusercontent.com/85449693/124282107-1ff74780-db53-11eb-849b-182533c34457.png)
+
+
+
 Depending on the table shown above, the two motors will move, change direction, or stop
 
