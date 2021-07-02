@@ -10,6 +10,10 @@ Control of DC motors
 
 •	L298 DC motor driver module 
 
+
+![image](https://user-images.githubusercontent.com/85449693/124281709-a95a4a00-db52-11eb-8403-dc18a209ecdb.png)
+
+
 Using L298N, you can control the speed and direction of two motor, but it is important to use Arduino, which will send signals to L298N, and depending on the transmitted signals, the direction and speed of the two motors will change. 
 
 •	Schematic diagram 
