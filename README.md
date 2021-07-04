@@ -105,7 +105,12 @@ Operating steps
 
 
 
+Robot eyes design
 
+
+•	Schematic diagram 
+
+![image](https://user-images.githubusercontent.com/85449693/124377337-2224e780-dcb4-11eb-945a-1d7d075aed65.png)
 
 
 
