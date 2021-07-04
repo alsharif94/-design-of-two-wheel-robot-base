@@ -114,3 +114,56 @@ Robot eyes design
 
 
 
+Basic tools
+
+1.	Light Dependent Resistor (LDR)
+
+![image](https://user-images.githubusercontent.com/85449693/124378967-12f66780-dcbd-11eb-8daa-0c2a2551f6fe.png)
+
+
+2.	Resistors 
+
+![image](https://user-images.githubusercontent.com/85449693/124378983-273a6480-dcbd-11eb-8071-b9fc51d3b04a.png)
+
+3.	LEDs
+
+![image](https://user-images.githubusercontent.com/85449693/124378990-34575380-dcbd-11eb-98d7-7ce899e98da7.png)
+
+4.	Transistors (BC547)
+
+![image](https://user-images.githubusercontent.com/85449693/124379012-446f3300-dcbd-11eb-979a-fd619092fb2a.png)
+
+
+5.	Arduino 
+
+![image](https://user-images.githubusercontent.com/85449693/124379022-518c2200-dcbd-11eb-8e4f-52027bbd6958.png)
+
+
+6.	Capacitors 
+
+![image](https://user-images.githubusercontent.com/85449693/124379042-68cb0f80-dcbd-11eb-9baa-944b3080d418.png)
+
+
+
+Arduino Code 
+
+
+![image](https://user-images.githubusercontent.com/85449693/124379068-8009fd00-dcbd-11eb-80f6-f6fed65fc1b8.png)
+
+
+Operating steps
+
+1.	Program the Arduino by using the above code
+
+2.	Connect the circuit as shown in the schematic diagram 
+
+
+3.	LDR enables you to turn on the eye in the dark area by manipulating the value of the voltage applied to it and choosing the appropriate resistance connected to it
+
+4.	Arduino can be replaced with a battery if you do not want to control the eyes
+
+
+
+
+
+
