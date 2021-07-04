@@ -89,5 +89,23 @@ Operating steps
 
 
 
+2.	After that use, the diode bridge to convert AC to DC voltage 
+
+![image](https://user-images.githubusercontent.com/85449693/124377260-ce1a0300-dcb3-11eb-91fb-64a44ef5bc5e.png)
+
+
+3.	The capacitor is used to remove ripples of DC voltage of diode bridge 
+
+![image](https://user-images.githubusercontent.com/85449693/124377276-dd00b580-dcb3-11eb-9b39-2d3f723c3ac0.png)
+
+4.	Use a voltage regulator (LM7805) to keep the output voltage constant to charge the battery to the required value(5v)
+
+![image](https://user-images.githubusercontent.com/85449693/124377289-eb4ed180-dcb3-11eb-9768-30f5f53ca118.png)
+
+
+
+
+
+
 
 
