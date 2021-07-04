@@ -51,6 +51,10 @@ Depending on the table shown above, the two motors will move, change direction, 
 ![image](https://user-images.githubusercontent.com/85449693/124377193-62379a80-dcb3-11eb-9549-e23b53a9167d.png)
 
 
+5.	Write the code for the instructions shown in the table above, to move, change the direction or stop the two DC motors
+
+
+![image](https://user-images.githubusercontent.com/85449693/124377212-885d3a80-dcb3-11eb-9958-dba331bc0f5b.png)
 
 
 
@@ -58,6 +62,30 @@ Depending on the table shown above, the two motors will move, change direction, 
 
 
 
+Battery charging circuit
+
+The schematic diagram 
+
+
+![image](https://user-images.githubusercontent.com/85449693/124377219-9743ed00-dcb3-11eb-8341-09968c4ba4ea.png)
+
+
+Basic tools
+
+1.	AC source(220V,60Hz)
+2.	Transformer 
+3.	Diode bridge 
+4.	Capacitor 
+5.	Voltage regulator (LM7805)
+6.	LED) optional (
+
+
+
+Operating steps
+1.	Connect the transformer to the AC voltage source
+
+
+![image](https://user-images.githubusercontent.com/85449693/124377238-b0e53480-dcb3-11eb-9a60-d7295e7c0e93.png)
 
 
 
